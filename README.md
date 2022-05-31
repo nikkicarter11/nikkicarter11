@@ -1,7 +1,17 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...a degree in cybersecurity
+- 🌱 I’m currently learning ...Python
+- 👯 I’m looking to collaborate on ...bug testing
+- 🤔 I’m looking for help with ...everything
+- 💬 Ask me about ...linguistics
+- 📫 How to reach me: ...just here for now
+- 😄 Pronouns: ...she/her
+- ⚡ Fun fact: ...going to college for the first time as a 25-year-old is a weird experience!
 
 <!--
 **nikkicarter11/nikkicarter11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+To actually commit changes, make sure you pause adblocker and ghostery!
 
 Here are some ideas to get you started:
 
